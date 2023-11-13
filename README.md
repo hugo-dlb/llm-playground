@@ -194,12 +194,12 @@ print(llm.predict(question))
 
 When running the Python script (see `main_old.py` in the repo), we get an answer:
 
-````Les conditions de succession d'un bien immobilier lors du décès du propriétaire sont définies par la loi. Selon l'article 720 du Code civil, les successions s'ouvrent par la mort, au dernier domicile du défunt. Cela signifie que la succession d'un bien immobilier est ouverte au
-moment du décès du propriétaire.
+```txt
+Les conditions de succession d'un bien immobilier lors du décès du propriétaire sont définies par la loi. Selon l'article 720 du Code civil, les successions s'ouvrent par la mort, au dernier domicile du défunt. Cela signifie que la succession d'un bien immobilier est ouverte au moment du décès du propriétaire.
 
 En ce qui concerne l'attribution préférentielle du bien immobilier, l'article 831-2 du Code civil stipule que le conjoint survivant ou tout héritier copropriétaire peut demander l'attribution préférentielle de la propriété du bien immobilier s'il s'agit de sa résidence principale au moment du décès. Cette demande peut également être faite pour le droit au bail du local servant effectivement d'habitation. De plus, le mobilier garnissant le bien immobilier peut également être attribué préférentiellement. (Article 831-2)
 
 Il est important de noter que si le bien immobilier est grevé de rentes par hypothèque spéciale, chaque cohéritier a le droit d'exiger que les rentes soient remboursées et que les immeubles soient rendus libres avant la formation des lots. Si les cohéritiers décident de partager la succession dans l'état où elle se trouve, l'immeuble grevé doit être estimé au même taux que les autres immeubles et le capital de la rente doit être déduit du prix total. L'héritier dans le lot duquel se trouve cet immeuble est seul responsable du service de la rente et doit en garantir ses cohéritiers. (Article 872)
 
-En résumé, les conditions de succession d'un bien immobilier lors du décès du propriétaire sont que la succession s'ouvre au moment du décès, que le conjoint survivant ou tout héritier copropriétaire peut demander l'attribution préférentielle du bien immobilier s'il s'agit de sa résidence principale, et que si le bien est grevé de rentes par hypothèque spéciale, des dispositions spécifiques s'appliquent. (Article 720, Article 831-2, Article 872)```
-````
+En résumé, les conditions de succession d'un bien immobilier lors du décès du propriétaire sont que la succession s'ouvre au moment du décès, que le conjoint survivant ou tout héritier copropriétaire peut demander l'attribution préférentielle du bien immobilier s'il s'agit de sa résidence principale, et que si le bien est grevé de rentes par hypothèque spéciale, des dispositions spécifiques s'appliquent. (Article 720, Article 831-2, Article 872)
+```
